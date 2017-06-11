@@ -1,0 +1,16 @@
+{
+  "openIdname": "WellChatServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qyvlik",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.9.2",
+    "socket.io": "^1.7.3",
+    "ws": "^2.2.2"
+  }
+}
